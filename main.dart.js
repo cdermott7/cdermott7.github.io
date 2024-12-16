@@ -45073,7 +45073,7 @@ return A.j3(A.j7(B.b4,A.a([q.Jn(B.e.bC(s,10),o,1-r),q.Jn(B.e.bC(s+1,10),o-m,r)],
 $S:429}
 A.KF.prototype={
 K(a){var s=A.axw().PF(A.ayS(A.axw().p3)),r=$.FL()
-return new A.z0(B.Ce,"Moonshart",s,r.PF(A.ayS(r.p3)),B.xH,!1,null)}}
+return new A.z0(B.Ce,"Memecoin Tracking Application",s,r.PF(A.ayS(r.p3)),B.xH,!1,null)}}
 A.dx.prototype={
 j(a){var s=this
 return"ChartData(timestamp: "+s.a.j(0)+", open: "+A.h(s.b)+", high: "+A.h(s.c)+", low: "+A.h(s.d)+", close: "+A.h(s.e)+", volume: "+A.h(s.f)+")"}}
